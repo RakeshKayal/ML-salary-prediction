@@ -15,12 +15,14 @@ It also includes an **API layer** for integration with backend applications.
 ---
 
 ## 📂 Project Structure
+<br/>
 ML-salary-prediction/
-│── Salary-Prediction.ipynb # Jupyter Notebook (model training + evaluation)
-│── api_create.ipynb # API implementation
-│── regression_dataset.csv # Dataset (Age, Experience, Salary)
-│── model.pkl # Saved ML model
-│── README.md # Project documentation
+<br/>
+│── Salary-Prediction.ipynb # Jupyter Notebook (model training + evaluation)<br/>
+│── api_create.ipynb # API implementation<br/>
+│── regression_dataset.csv # Dataset (Age, Experience, Salary)<br/>
+│── model.pkl # Saved ML model<br/>
+│── README.md # Project documentation<br/>
 
 ---
 
